@@ -12,6 +12,7 @@ var SETDEX_ADV = {
 	},
 	"Aerodactyl":{
 		"Leader Winona":{"ability":"Rock Head", "level":54, "item":"Lum Berry", "moves":["Hidden Power Flying", "Ancientpower", "Double-Edge", "Earthquake"], "nature":"Naive"},
+		"Partner Steven":{"ability":"Pressure", "level":70, "moves":["Fly", "Steel Wing", "Rock Blast", "Return"], "nature":"Hardy", "ivs":{"hp":0, "at":0, "sa":0, "sp":0, "df":0, "sd":0}},
 		"Old Couple John & Jay":{"ability":"Rock Head", "level":75, "item":"Lum Berry", "moves":["Earth Power", "Air Slash", "Ancientpower", "Iron Tail"], "nature":"Quiet"},
 		"Expert Mitchell":{"ability":"Rock Head", "level":86, "item":"Lum Berry", "moves":["Earthquake", "Air Slash", "Double-Edge", "Ancientpower"]},
 		"Champion Steven":{"ability":"Rock Head", "level":100, "item":"Lum Berry", "moves":["Sky Attack", "Earthquake", "Flamethrower", "Ancientpower"]}
@@ -1343,6 +1344,7 @@ var SETDEX_ADV = {
 	},
 	"Metagross":{
 		"Expert Clifford":{"ability":"Clear Body", "level":66, "item":"Lum Berry", "moves":["Agility", "Explosion", "Flash Cannon", "Earthquake"], "nature":"Lonely"},
+		"Partner Steven":{"ability":"Clear Body", "level":70, "moves":["Psychic", "Shadow Ball", "Meteor Mash", "Brick Break"], "nature":"Brave", "ivs":{"hp":0, "at":0, "sa":0, "sp":0, "df":0, "sd":0}},
 		"Magma Leader Maxie 3":{"ability":"Clear Body", "level":72, "item":"Lum Berry", "moves":["Earthquake", "Meteor Mash", "Shadow Ball", "Hidden Power Grass"], "nature":"Jolly"},
 		"Aqua Leader Archie":{"ability":"Clear Body", "level":75, "item":"Lum Berry", "moves":["Meteor Mash", "Earth Power", "Sludge Bomb", "Protect"], "nature":"Naive"},
 		"Expert Annika":{"ability":"Clear Body", "level":73, "item":"Lum Berry", "moves":["Meteor Mash", "Sludge Bomb", "Rock Slide", "Earthquake"], "nature":"Naughty"},
@@ -2091,6 +2093,7 @@ var SETDEX_ADV = {
 		"Aqua Grunt #5 (Aqua Hideout)":{"ability":"Natural Cure", "level":62, "item":"King's Rock", "moves":["Rain Dance", "Surf", "Thunder", "Psychic"], "nature":"Lax"},
 		"Aqua Grunt #7 (Aqua Hideout)":{"ability":"Natural Cure", "level":62, "item":"Scope Lens", "moves":["Hydro Pump", "Signal Beam", "Psychic", "Ice Beam"], "nature":"Hasty"},
 		"Gym Leaders Tate&liza":{"ability":"Natural Cure", "level":70, "item":"Lum Berry", "moves":["Hydro Pump", "Ice Beam", "Thunderbolt", "Psychic"], "nature":"Relaxed"},
+		"Partner Steven":{"ability":"Illuminate", "level":70, "moves":["Dive", "Surf", "Psychic", "Thunderbolt"], "nature":"Lonely", "ivs":{"hp":0, "at":0, "sa":0, "sp":0, "df":0, "sd":0}},
 		"Aqua Grunt #1 (Seafloor Cavern)":{"ability":"Natural Cure", "level":67, "item":"King's Rock", "moves":["Thunder Wave", "Thunder", "Ice Beam", "Psychic"], "nature":"Brave"},
 		"Aqua Admin Shelly 2":{"ability":"Natural Cure", "level":72, "item":"Lum Berry", "moves":["Hydro Pump", "Thunder", "Psychic", "Ice Beam"], "nature":"Timid"},
 		"Triathlete Brianna":{"ability":"Natural Cure", "level":70, "item":"Lum Berry", "moves":["Thunder", "Psychic", "Hydro Pump", "Ice Beam"], "nature":"Hasty"},
