@@ -750,7 +750,7 @@ var SETDEX_ADV = {
 	},
 	"Gligar":{
 		"Sr And Jr Anna & Meg":{"ability":"Hyper Cutter", "level":21, "item":"Choice Band", "moves":["Magnitude"], "nature":"Timid"},
-		"Ranger Flint":{"ability":"Hyper Cutter", "level":53, "item":"Lum Berry", "moves":["Earthquake", "Rock Slide", "Aerial Ace", "Quick Attack"], "nature":"Sassy"},
+		"Ranger Flint":{"ability":"Hyper Cutter", "level":53, "item":"Lum Berry", "moves":["Earthquake", "Rock Slide", "Aerial Ace", "Quick Attack"], "nature":"Relaxed"},
 		"Bug Maniac Ali":{"ability":"Hyper Cutter", "level":52, "item":"Soft Sand", "moves":["Hidden Power Ground", "Aerial Ace", "Sludge Bomb", "Rock Tomb"], "nature":"Relaxed"},
 		"Magma Grunt #7 (Magma Hideout)":{"ability":"Hyper Cutter", "level":62, "item":"Bright Powder", "moves":["Earthquake", "Rock Slide", "Aerial Ace", "Swords Dance"], "nature":"Gentle"},
 		"Expert Shannon":{"ability":"Hyper Cutter", "level":85, "item":"Lum Berry", "moves":["Hidden Power Flying", "Rock Slide", "Earthquake", "Quick Attack"], "nature":"Relaxed"}
