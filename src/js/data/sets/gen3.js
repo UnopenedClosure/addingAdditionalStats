@@ -109,19 +109,6 @@ var SETDEX_ADV = {
 	"Articuno":{
 		"Leader Winona":{"ability":"Pressure", "level":55, "item":"Lum Berry", "moves":["Ice Beam", "Sky Attack", "Ice Shard", "Hidden Power Grass"], "nature":"Hasty"}
 	},
-	"Azu":{
-		"Breeder Lydia":{"ability":"Huge Power","ability":"Huge Power", "level":21, "item":"Sitrus Berry", "moves":["Water Pulse", "Rollout", "Ice Punch", "Belly Drum"], "nature":"Mild"},
-		"Winstrate Vivi":{"ability":"Huge Power","ability":"Huge Power", "level":26, "item":"Cheri Berry", "moves":["Bubblebeam", "Secret Power", "Ice Punch", "Seismic Toss"], "nature":"Adamant"},
-		"Youngster Dillon":{"ability":"Huge Power","ability":"Huge Power", "level":31, "item":"Mystic Water", "moves":["Water Pulse", "Body Slam", "Ice Punch", "Brick Break"], "nature":"Careful"},
-		"Cooltrainer Berke":{"ability":"Huge Power","ability":"Huge Power", "level":43, "item":"Leftovers", "moves":["Sing", "Double-Edge", "Hidden Power Ground", "Surf"], "nature":"Rash"},
-		"Guitarist Beth":{"ability":"Huge Power","ability":"Huge Power", "level":47, "item":"Mystic Water", "moves":["Sing", "Return", "Surf", "Ice Beam"], "nature":"Quiet"},
-		"Ninja Boy Riley":{"ability":"Huge Power","ability":"Huge Power", "level":50, "item":"Silk Scarf", "moves":["Camouflage", "Double-Edge", "Surf", "Brick Break"], "nature":"Lonely"},
-		"Aqua Grunt #4 (Mt. Pyre)":{"ability":"Huge Power","ability":"Huge Power", "level":53, "item":"Scope Lens", "moves":["Hydro Pump", "Double-Edge", "Hidden Power Ghost", "Blizzard"], "nature":"Jolly"},
-		"Swimmerf Jenny":{"ability":"Huge Power","ability":"Huge Power", "level":64, "moves":["Ice Beam", "Double-Edge", "Superpower", "Hydro Pump"], "nature":"Bold"},
-		"Sis And Bro Reli & Ian":{"ability":"Huge Power","ability":"Huge Power", "level":65, "moves":["Ice Beam", "Double-Edge", "Superpower", "Hydro Pump"], "nature":"Modest"},
-		"Battle Girl Crissy":{"ability":"Huge Power","ability":"Huge Power", "level":74, "item":"Lum Berry", "moves":["Muddy Water", "Double-Edge", "Superpower", "Sing"], "nature":"Naive"},
-		"Swimmerf Dana":{"ability":"Huge Power","ability":"Huge Power", "level":34, "moves":["Body Slam", "Waterfall", "Ice Beam", "Double-Edge"], "nature":"Lonely"}
-	},
 	"Azumarill":{
 		"Breeder Lydia":{"ability":"Huge Power", "level":21, "item":"Sitrus Berry", "moves":["Water Pulse", "Rollout", "Ice Punch", "Belly Drum"], "nature":"Mild", "ivs":{"hp":24, "at":24, "sa":24, "sp":24, "df":24, "sd":24}},
 		"Winstrate Vivi":{"ability":"Huge Power", "level":26, "item":"Cheri Berry", "moves":["Bubblebeam", "Secret Power", "Ice Punch", "Seismic Toss"], "nature":"Adamant"},
@@ -304,9 +291,9 @@ var SETDEX_ADV = {
 		"Trainer May 1.5 (w/ Treecko)":{"ability":"Blaze", "level":15, "item":"Charcoal", "moves":["Ember", "Quick Attack", "Bite", "Rock Tomb"], "nature":"Mild"}
 	},
 	"Charmeleon":{
-		"Dragon Tamer Rhett":{"ability":"Blaze", "level":17, "item":"Dragon Fang", "moves":["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature":"Naughty", "ivs":{"hp":24, "at":24, "sa":24, "sp":24, "df":24, "sd":24}
-			,"Trainer Brendan 2 (w/ Treecko)":{"ability":"Blaze", "level":25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature":"Sassy"}
-			,"Trainer May 2 (w/ Treecko)":{"ability":"Blaze", "level":25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature":"Relaxed"}},
+		"Dragon Tamer Rhett":{"ability":"Blaze", "level":17, "item":"Dragon Fang", "moves":["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature":"Naughty", "ivs":{"hp":24, "at":24, "sa":24, "sp":24, "df":24, "sd":24},
+		"Trainer Brendan 2 (w/ Treecko)":{"ability":"Blaze", "level":25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature":"Sassy"},
+		"Trainer May 2 (w/ Treecko)":{"ability":"Blaze", "level":25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature":"Relaxed"}},
 		"Kindler Hayden":{"ability":"Blaze", "level":25, "item":"Lum Berry", "moves":["Dragon Rage", "Flamethrower", "Secret Power", "Protect"], "nature":"Careful"}
 	},
 	"Chikorita":{
@@ -2200,7 +2187,7 @@ var SETDEX_ADV = {
 		"Trainer Brendan 4 (w/ Mudkip)":{"ability":"Intimidate", "level":59, "item":"Lum Berry", "moves":["Earthquake", "Iron Tail", "Hidden Power Ghost", "Body Slam"]},
 		"Trainer Brendan 4 (w/ Torchic)":{"ability":"Intimidate", "level":59, "item":"Lum Berry", "moves":["Double-Edge", "Earthquake", "Hidden Power Ghost", "Iron Tail"]},
 		"Trainer Brendan 4 (w/ Treecko)":{"ability":"Intimidate", "level":59, "item":"Liechi Berry", "moves":["Earthquake", "Return", "Hidden Power Ghost", "Substitute"], "nature":"Modest"},
-		"Aqua Admin Matt 2":{"ability":"Intimidate", "level":66, "item":"Choice Band", "moves":["Earthquake", "Double-Edge", "Iron Tail"], "nature":"Jolly"},
+		"Aqua Admin Matt 2":{"ability":"Intimidate", "level":66, "item":"Choice Band", "moves":["Earthquake", "Double-Edge", "Iron Tail"], "nature":"Impish"},
 		"Magma Leader Maxie 3":{"ability":"Intimidate", "level":71, "item":"Lum Berry", "moves":["Earthquake", "Double-Edge", "Hidden Power Ghost", "Iron Tail"], "nature":"Jolly"},
 		"Old Couple John & Jay":{"ability":"Intimidate", "level":75, "item":"Lum Berry", "moves":["Return", "Iron Tail", "Hidden Power Ghost", "Earthquake"], "nature":"Relaxed"},
 		"Elite Four Sidney":{"ability":"Intimidate", "level":100, "item":"Lum Berry", "moves":["Double-Edge", "Hidden Power Ghost", "Earthquake", "Quick Attack"], "nature":"Hasty"}
